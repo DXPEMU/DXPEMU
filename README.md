@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 Development Projects:</h2>
 
+- <b>Java Hotel Check in/out system</b>
+  - <body>The client asked for the API to not be made available publically</body>
+  
 - <b>Smartswish AI (Website and machine learning)</b>
-  - [Git Here](https://github.com/DXPEMU)
+  - [Git Here](https://github.com/DXPEMU/smartswish)
 - <b> Hostel Booking App </b>
   - []()
 <h2>📺 Popular YouTube Videos</h2>
