@@ -3,9 +3,9 @@
 <h2>👨‍💻 Development Projects:</h2>
 
 - <b>Smartswish AI (Website and machine learning)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - []()
 - <b> Hostel Booking App </b>
-  - []
+  - []()
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Brighton FC: Moneyball](https://youtu.be/x-5CKBeWkyE)
