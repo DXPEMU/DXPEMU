@@ -1,4 +1,4 @@
-<h1>Hi, I'm Boaz! <br/><a href="https://github.com/DXPEMU">Junior Developer</a>, <a href="https://www.linkedin.com/in/oreoluwa-dopemu/">Comp Sci Graduate</a>, <a href="https://www.youtube.com/c/DXPEMU">YouTuber</a></h1>
+<h1>Hi, I'm Boaz! <br/><a href="https://github.com/DXPEMU">QA Engineerr</a>, <a href="https://www.linkedin.com/in/oreoluwa-dopemu/">Comp Sci Graduate</a>, <a href="https://www.youtube.com/c/DXPEMU">YouTuber</a></h1>
 
 <h2>👨‍💻 Development Projects:</h2>
 
